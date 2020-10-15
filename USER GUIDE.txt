@@ -1,0 +1,3 @@
+this is a simple image sliding puzzle game application developed for android by using java on android studio software.
+
+to install this app user should move Puzzle.apk to their phone and run it, or user can import javaProjectSpring folder to android studio then run it by using android studio emulator.
